@@ -15,4 +15,6 @@ I want to take a computer science course because it’s a great way to build cru
 ## Summer Trip to Florida
 My family and I went to Florida over the summer. We went to Gatorland and saw extremely big alligators.
 
-![A group of Alligators around 10 feet long](
+![A group of Alligators around 10 feet long](https://drive.google.com/file/d/1OMo8nbaHqXkgNLLNL5qsXWhJfOXv8q-R/view)
+
+![A big 15 foot Alligator](https://drive.google.com/file/d/1bx3onWFhnXqbGRAZWz6jVzMjwvzecqoH/view)
